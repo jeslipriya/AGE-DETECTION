@@ -12,7 +12,7 @@ This Age Detection System uses deep learning models integrated with OpenCV to de
 * ⏳ **Age Prediction** using pre-trained Caffe models
 * 📸 Supports image, video and real-time webcam input
 * ✅ Displays bounding boxes with age labels and confidence
-* ⚖️ Performance stats like FPS and inference time (for video)
+* ⚖️ Performance stats like FPS and inference time (for video and webcam)
 
 ---
 
