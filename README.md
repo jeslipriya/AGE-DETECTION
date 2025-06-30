@@ -74,7 +74,7 @@ You need to download the following models:
 * `age_deploy.prototxt`
 * `age_net.caffemodel`
 
-You can find these in OpenCV's [GitHub model zoo](https://github.com/opencv/opencv/tree/master/samples/dnn/face_detector) or other online repositories.
+You can find these in OpenCV's [GitHub model](https://github.com/opencv/opencv/tree/master/samples/dnn/face_detector) or other online repositories.
 
 ---
 
