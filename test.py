@@ -1,11 +1,6 @@
 """
 Age Detection System using Deep Learning
 
-Team: [Your Team Name]
-Members: [Team Member Names]
-Hackathon: [Event Name]
-Date: [Presentation Date]
-
 Description:
 This system uses OpenCV with pre-trained deep learning models to:
 1. Detect faces in images or real-time video
