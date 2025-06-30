@@ -83,7 +83,7 @@ You can find these in OpenCV's [GitHub model zoo](https://github.com/opencv/open
 ### Run with an Image
 
 ```bash
-python age_detection.py -i path/to/image.jpg
+python age_detection.py -image path/to/image.jpg
 ```
 
 ### Run with a Video File
