@@ -131,4 +131,4 @@ Developed by Jesli
 
 ## Contact
 
-For queries or collaboration, please contact: \[jeslipriya07@gmail.com](jeslipriya07@gmail.com)
+For queries or collaboration, please contact: jeslipriya07@gmail.com
