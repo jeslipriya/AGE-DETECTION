@@ -183,7 +183,7 @@ class AgeDetectionSystem:
             cv2.rectangle(output_frame, 
                          (x1, y1 - text_height - 10),
                          (x1 + text_width, y1),
-                         (0, 255, 0), -1)
+                         (0, 255, 0), -1)  
             
             # Put age text
             cv2.putText(output_frame, label, 
