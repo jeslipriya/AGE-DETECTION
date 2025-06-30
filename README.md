@@ -10,7 +10,7 @@ This Age Detection System uses deep learning models integrated with OpenCV to de
 
 * 👤 **Face Detection** using OpenCV DNN module
 * ⏳ **Age Prediction** using pre-trained Caffe models
-* 📸 Supports both image and real-time webcam input
+* 📸 Supports image, video and real-time webcam input
 * ✅ Displays bounding boxes with age labels and confidence
 * ⚖️ Performance stats like FPS and inference time (for video)
 
