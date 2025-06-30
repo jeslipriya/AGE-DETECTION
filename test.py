@@ -298,13 +298,13 @@ class AgeDetectionSystem:
 def print_banner():
     """Print a formatted banner for the presentation"""
     banner = """
-    #######################################################
-    #               AGE DETECTION SYSTEM                  #
-    #                   Hackathon 2023                    #
-    #                                                     #
-    #  Uses OpenCV with pre-trained deep learning models  #
+    ########################################################
+    #               AGE DETECTION SYSTEM                   #
+    #                                                      #
+    #                                                      #
+    #  Uses OpenCV with pre-trained deep learning models   #
     #  to detect faces and predict age groups in real-time #
-    #######################################################
+    ########################################################
     """
     print(banner)
 
