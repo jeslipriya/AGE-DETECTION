@@ -89,7 +89,7 @@ python age_detection.py -i path/to/image.jpg
 ### Run with a Video File
 
 ```bash
-python age_detection.py -v path/to/video.mp4
+python age_detection.py -video path/to/video.mp4
 ```
 
 ### Run with Webcam (Default)
